@@ -1,0 +1,86 @@
+{
+    "points": [
+        {
+            "points": {
+                "x": "1189.071",
+                "y": "1084.665"
+            },
+            "class": {
+                "name": "1",
+                "name_kor": "1"
+            }
+        },
+        {
+            "points": {
+                "x": "1450.929",
+                "y": "936.384"
+            },
+            "class": {
+                "name": "2",
+                "name_kor": "2"
+            }
+        },
+        {
+            "points": {
+                "x": "1990.422",
+                "y": "1056.270"
+            },
+            "class": {
+                "name": "3",
+                "name_kor": "3"
+            }
+        },
+        {
+            "points": {
+                "x": "2220.729",
+                "y": "1403.312"
+            },
+            "class": {
+                "name": "4",
+                "name_kor": "4"
+            }
+        },
+        {
+            "points": {
+                "x": "1296.339",
+                "y": "1359.142"
+            },
+            "class": {
+                "name": "5",
+                "name_kor": "5"
+            }
+        },
+        {
+            "points": {
+                "x": "1870.536",
+                "y": "1510.580"
+            },
+            "class": {
+                "name": "6",
+                "name_kor": "6"
+            }
+        },
+        {
+            "points": {
+                "x": "1435.154",
+                "y": "1797.679"
+            },
+            "class": {
+                "name": "7",
+                "name_kor": "7"
+            }
+        },
+        {
+            "points": {
+                "x": "1422.535",
+                "y": "1930.187"
+            },
+            "class": {
+                "name": "8",
+                "name_kor": "8"
+            }
+        }
+    ],
+    "valid": true,
+    "url": "https://d19peym41d5ml2.cloudfront.net/34599/befa7ea6-1aae-488f-bed5-979d927ac088.jpg"
+}
